@@ -49,7 +49,8 @@
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lautarotintez/)  
-- 📧 [Email](mailto:lautarotintez@gmail.com)
+- 💼 <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">LinkedIn</a>  
+- 📧 <a href="mailto:tuemail@example.com" target="_blank">Email</a>
+
 
 
