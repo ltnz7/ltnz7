@@ -49,8 +49,9 @@
 
 ## 📫 Contacto
 
-- 💼 <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">LinkedIn</a>  
-- 📧 <a href="mailto:tuemail@example.com" target="_blank">Email</a>
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario/)  
+- 📧 [Email](mailto:tuemail@example.com)
+
 
 
 
