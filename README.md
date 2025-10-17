@@ -4,22 +4,22 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Bienvenido a mi Github👋</h1></summary>
+    <summary><h1 style="display: inline-block">Welcome to my GitHub profile👋</h1></summary>
   </ul>
 </div>
 
 <!--About Me-->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre Mi
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-- :technologist: Soy `Desarrollador Backend`
-- :office: Actualmente trabajando en [Asap Consulting S.A.](#)  <!-- reemplaza # con el link de tu empresa o LinkedIn -->
-- :briefcase: Podes visitar mi [Portfolio](https://lautaro-tintez.vercel.app/) para ver mis proyectos  <!-- reemplaza # con tu portfolio -->
+- :technologist: I am a `Backend developer`
+- :office: Currently working on  [Asap Consulting S.A.](#)  <!-- reemplaza # con el link de tu empresa o LinkedIn -->
+- :briefcase: You can visit my  [Portfolio](https://lautarotintez-portfolio.vercel.app/) to see my projects. <!-- reemplaza # con tu portfolio -->
 
 <br>
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Lenguajes de programación:
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -29,13 +29,13 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Bases de datos:
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Databases:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> DevOps & Contenedores:
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> DevOps & Containers:
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
@@ -47,7 +47,7 @@
 
 <br>
 
-## 📫 Contacto
+## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario/)  
 - 📧 [Email](mailto:tuemail@example.com)
