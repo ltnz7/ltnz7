@@ -12,7 +12,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 - :technologist: I am a `Backend developer`
-- :office: Currently working on  [Asap Consulting S.A.](#)  <!-- reemplaza # con el link de tu empresa o LinkedIn -->
+- :office: Currently working on  [Freelance](#)  <!-- reemplaza # con el link de tu empresa o LinkedIn -->
 - :briefcase: You can visit my  [Portfolio](https://lautarotintez-portfolio.vercel.app/) to see my projects. <!-- reemplaza # con tu portfolio -->
 
 <br>
